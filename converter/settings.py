@@ -25,7 +25,7 @@ SECRET_KEY = 'kv3jg1vn$7wfuon08t*d7a5!!*-!08@$5gyhsz(n2l19o0mq0='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'windmill.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'mkbtoicpc.pythonanywhere.com']
 
 
 # Application definition
